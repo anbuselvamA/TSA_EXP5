@@ -94,11 +94,14 @@ plt.show()
 
 
 ### OUTPUT:
-# monthly average attendance Rate
+# monthly average average rate 
+![image](https://github.com/user-attachments/assets/ed0bf2e6-c816-4194-a92a-bd36a90cefb0)
+
 # original Time Series
 # trend component 
 # seasonal component
 # Residual component
+
 ![image](https://github.com/user-attachments/assets/ee5d5664-865a-4da3-b831-ba1e8c5916e8)
 
 
