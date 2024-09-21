@@ -1,5 +1,5 @@
 # Developer name : A.Anbuselvam 
-# reg no : 212222240009
+# Reg no : 212222240009
 ### Date: 
 # # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
